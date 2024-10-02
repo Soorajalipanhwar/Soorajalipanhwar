@@ -35,7 +35,5 @@
     <h4>Application Development</h4>
     <p>Android mobile applications, Flutter Framework</p>
     <h4>Programming and DB Languages:</h4>
-    <h5><strong>Programming Languages</strong> </h5>
-    <p>C#, Java, Dart, Python, Javascript</p>
-    <h5><strong>DB and query Languages</strong></h5>
-    <p>MS SQL, MySql, Firebase</p>
+    <p><h5><strong>Programming Languages:</strong> </h5> C#, Java, Dart, Python, Javascript</p>
+    <p><h5><strong>DB and query Languages:</strong></h5> MS SQL, MySql, Firebase</p>
