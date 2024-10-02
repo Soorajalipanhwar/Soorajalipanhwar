@@ -32,8 +32,10 @@
     <p>Data Science and Machine Learning</p>
     <h4>ML Frameworks/Modules:</h4>
     <p>Scikit-learn, PyTorch, Keras, NumPy, Pandas, OpenCV, Transformers</p>
-    <h4>MLOps Tools:</h4>
     <h4>Application Development</h4>
     <p>Android mobile applications, Flutter Framework</p>
     <h4>Programming and DB Languages:</h4>
-    <p>C#, Java,Dart,Python,MS SQL, MySQL, Firebase/p>
+    <h5><strong>Programming Languages</strong> </h5>
+    <p>C#, Java, Dart, Python, Javascript</p>
+    <h5><strong>DB and query Languages</strong></h5>
+    <p>MS SQL, MySql, Firebase</p>
