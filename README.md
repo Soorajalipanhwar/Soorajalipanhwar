@@ -19,7 +19,7 @@
         </a>
     </p>
     <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatankar926" />
+        <img src="https://komarev.com/ghpvc/?username=sooraj-ali-panhwar-936150224&label=Profile%20views&color=0e75b6&style=flat" alt="Sooraj Ali" />
     </p>
     <h3 align="left">About Me:</h3>
     <p>🔭 I’m currently working on Mobile application development.</p>
