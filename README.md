@@ -28,7 +28,7 @@
     <br>
     <h3 align="left">Skills:</h3>
     <h3><p>Application Development</p></h3>
-    <div style="padding:0 0 0 0;">
+    <div style="padding:23px 0 0 0;">
     <p>Android mobile applications, Android Studio and Flutter Framework</p>
     <h4>Programming and DB Languages:</h4>
     <p><strong>Programming Languages:</strong> C#, Java, Dart, Python, Javascript</p>
