@@ -35,7 +35,7 @@
     <p><strong>DB and query Languages:</strong> MS SQL, MySQL, Firebase</p></div>
     <br>
     <h3><p>Data Science and Machine Learning</p></h3>
-    <div style="padding: 0 0 0 40px"></div>
+    <div style="padding: 0 0 0 40px;">
     <h4>ML Frameworks/Modules:</h4>
-    <p>Scikit-learn, PyTorch, Keras, NumPy, Pandas, OpenCV, Transformers</p>
+    <p>Scikit-learn, PyTorch, Keras, NumPy, Pandas, OpenCV, Transformers</p></div>
     
