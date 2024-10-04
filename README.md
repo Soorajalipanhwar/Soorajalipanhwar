@@ -30,10 +30,7 @@
     <p>Android mobile applications, Android Studio and Flutter Framework</p>
     <h4>Programming and DB Languages:</h4>
     <p><strong>Programming Languages:</strong> C#, Java, Dart, Python, Javascript</p>
-    <p><strong>DB and query Languages:</strong> MS SQL, MySQL, Firebase</p>
-
-    
-    
+    <p><strong>DB and query Languages:</strong> MS SQL, MySQL, Firebase</p>  
     <h3>Data Science:</h3>
     <h3><p>Data Science and Machine Learning</p></h3>
     <h4>ML Frameworks/Modules:</h4>
