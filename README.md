@@ -31,7 +31,7 @@
     <h4>ML Frameworks/Modules:</h4>
     <p>Scikit-learn, PyTorch, Keras, NumPy, Pandas, OpenCV, Transformers</p>
     <h4>Application Development</h4>
-    <p>Android mobile applications, Flutter Framework</p>
+    <p>Android mobile applications,Android Studio and Flutter Framework</p>
     <h4>Programming and DB Languages:</h4>
     <p><strong>Programming Languages:</strong> C#, Java, Dart, Python, Javascript</p>
     <p><strong>DB and query Languages:</strong> MS SQL, MySQL, Firebase</p>
