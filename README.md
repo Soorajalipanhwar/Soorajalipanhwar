@@ -36,5 +36,5 @@
     <br>
     <h3><p>Data Science and Machine Learning</p></h3>
     <h4>ML Frameworks/Modules:</h4>
-    <p>Scikit-learn, PyTorch, Keras, NumPy, Pandas, OpenCV, Transformers</p><
-    
+    <p>Scikit-learn, PyTorch, Keras, NumPy, Pandas, OpenCV, Transformers</p>
+
