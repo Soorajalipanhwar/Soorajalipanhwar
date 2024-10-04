@@ -25,6 +25,7 @@
     <p>💬 Ask me about <strong>Data Science, Web Development, App Development</strong>.</p>
     <p>📄 Know about my experiences: <a href="https://soorajalipanhwar.github.io/resume/" target="_blank">Resume</a></p>
     <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    <br>
     <h3 align="left">Skills:</h3>
     <h3><p>Application Development</p></h3>
     <p>Android mobile applications, Android Studio and Flutter Framework</p>
