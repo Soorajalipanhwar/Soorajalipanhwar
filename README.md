@@ -28,7 +28,7 @@
     <br>
     <h3 align="left">Skills:</h3>
     <h3><p>Application Development</p></h3>
-    <p>Android mobile applications, Android Studio and Flutter Framework</p>
+    <p>Desktop/Android mobile applications, Visual Studio/ Android Studio and Flutter Framework</p>
     <h4>Programming and DB Languages:</h4>
     <p><strong>Programming Languages:</strong> C#, Java, Dart, Python, Javascript</p>
     <p><strong>DB and query Languages:</strong> MS SQL, MySQL, Firebase</p>
