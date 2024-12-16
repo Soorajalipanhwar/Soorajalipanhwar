@@ -36,6 +36,6 @@
     <h3><p>Data Science and Machine Learning</p></h3>
     <h4>ML Frameworks/Modules:</h4>
     <p>Flask, Keras, Tensorflow</p>
-    <h5>Libraries<h5>
-    <p>OpenCV, Scikit-learn, TKinter, Pillow, PyTorch, NumPy, Pandas, Transformers, ReportLab, PyPDF2</p>
+    <h5> Libraries </h5>h5>
+    <p> OpenCV, Scikit-learn, TKinter, Pillow, PyTorch, NumPy, Pandas, Transformers, ReportLab, PyPDF2 </p>
 
