@@ -20,8 +20,8 @@
         <img src="https://komarev.com/ghpvc/?username=sooraj-ali-panhwar-936150224&label=Profile%20views&color=0e75b6&style=flat" alt="Sooraj Ali" />
     </p>
     <h3 align="left">About Me:</h3>
-    <p>🔭 I’m currently working on <Strong>Dot NET application development.</Strong></p>
-    <p>🌱 I’m currently learning <strong>Web Development framewroks (ASP.NET, Angular, React.js)</strong>.</p>
+    <p>🔭 I’m currently working on <Strong>Dot NET Framework.</Strong></p>
+    <p>🌱 I’m currently learning <strong>Web Development framewroks (ASP.NET Core,React.js, Angular)</strong>.</p>
     <p>💬 Ask me about <strong>Data Science, Web Development, App Development</strong>.</p>
     <p>📄 Know about my experiences: <a href="https://soorajalipanhwar.github.io/My-Website/assets/Sooraj%20Ali's%20CV.pdf" target="_blank">Resume</a></p>
     <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
