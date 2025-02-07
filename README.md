@@ -30,12 +30,12 @@
     <h3><p>Application Development</p></h3>
     <p>Desktop applications --> Visual Studio / .NET</p>
     <h4>Programming and DB Languages:</h4>
-    <p><strong>Programming Languages ---></strong> C#, Java, Dart, Python, Javascript</p>
-    <p><strong>DB and query Languages --></strong> MS SQL, MySQL, Firebase</p>
+    <p><strong>Programming Languages ---></strong> C#, Python, Javascript</p>
+    <p><strong>DB and query Languages---></strong> MS SQL, MySQL, Firebase</p>
     <br>
     <h3><p>Data Science and Machine Learning</p></h3>
     <h4>ML Frameworks/Modules:</h4>
     <p>Flask, Keras, Tensorflow</p>
-    <h5> Libraries </h5>h5>
+    <h5> Libraries </h5>
     <p> OpenCV, Scikit-learn, TKinter, Pillow, PyTorch, NumPy, Pandas, Transformers, ReportLab, PyPDF2 </p>
 
