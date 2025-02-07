@@ -27,7 +27,7 @@
     <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <br>
     <h3 align="left">Skills:</h3>
-    <h3><p>Application Development</p></h3>
+    <h3>Application Development</h3>
     <p>Desktop applications/ WinForms --> Visual Studio / .NET</p> <br>
     <h3>Web Development</h3>
     <p>ASP.NET Core / Reac</p>
