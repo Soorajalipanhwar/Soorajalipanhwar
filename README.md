@@ -23,7 +23,7 @@
     <p>🔭 I’m currently working on <Strong>.NET Framework.</Strong></p>
     <p>🌱 I’m currently learning <strong>Web Development framewroks (ASP.NET Core,React)</strong>.</p>
     <p>💬 Ask me about <strong>Data Science, Web Development, App Development</strong>.</p>
-    <p>📄 Know about my experiences: <a href="https://soorajalipanhwar.github.io/My-Website/assets/Sooraj's%20CV.pdf" target="_blank">Resume</a></p>
+    <p>📄 Know about my experiences: <a href="https://soorajalipanhwar.github.io/My-Website/" target="_blank">Portfolio</a></p>
     <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <br>
     <h3 align="left">Skills:</h3>
