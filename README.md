@@ -30,8 +30,7 @@
     <h3>Application Development</h3>
     <p>Desktop applications/ WinForms --> Visual Studio / .NET</p>
     <h3>Web Development</h3>
-    <p>ASP.NET Core / Reac</p>
-
+    <p>ASP.NET Core / React</p>
     <h4>Programming and DB Languages:</h4>
     <p><strong>Programming Languages ---></strong> C#, Python, Javascript</p>
     <p><strong>DB and query Languages ---></strong> MS SQL, MySQL, Firebase</p>
