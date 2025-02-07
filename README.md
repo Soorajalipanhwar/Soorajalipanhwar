@@ -28,7 +28,7 @@
     <br>
     <h3 align="left">Skills:</h3>
     <h3>Application Development</h3>
-    <p>Desktop applications/ WinForms --> Visual Studio / .NET</p> <br>
+    <p>Desktop applications/ WinForms --> Visual Studio / .NET</p>
     <h3>Web Development</h3>
     <p>ASP.NET Core / Reac</p>
 
