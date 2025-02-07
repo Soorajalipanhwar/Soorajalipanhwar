@@ -21,17 +21,21 @@
     </p>
     <h3 align="left">About Me:</h3>
     <p>🔭 I’m currently working on <Strong>.NET Framework.</Strong></p>
-    <p>🌱 I’m currently learning <strong>Web Development framewroks (ASP.NET Core,React.js, Angular)</strong>.</p>
+    <p>🌱 I’m currently learning <strong>Web Development framewroks (ASP.NET Core,React)</strong>.</p>
     <p>💬 Ask me about <strong>Data Science, Web Development, App Development</strong>.</p>
     <p>📄 Know about my experiences: <a href="https://soorajalipanhwar.github.io/My-Website/assets/Sooraj's%20CV.pdf" target="_blank">Resume</a></p>
     <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <br>
     <h3 align="left">Skills:</h3>
     <h3><p>Application Development</p></h3>
-    <p>Desktop applications --> Visual Studio / .NET</p>
+    <p>Desktop applications/ WinForms --> Visual Studio / .NET</p>
+
+    <h3><p>Web Development</p></h3>
+    <p>ASP.NET Core / Reac</p>
+
     <h4>Programming and DB Languages:</h4>
     <p><strong>Programming Languages ---></strong> C#, Python, Javascript</p>
-    <p><strong>DB and query Languages---></strong> MS SQL, MySQL, Firebase</p>
+    <p><strong>DB and query Languages ---></strong> MS SQL, MySQL, Firebase</p>
     <br>
     <h3><p>Data Science and Machine Learning</p></h3>
     <h4>ML Frameworks/Modules:</h4>
