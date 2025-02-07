@@ -29,7 +29,7 @@
     <h3 align="left">Skills:</h3>
     <h3><p>Application Development</p></h3>
     <p>Desktop applications/ WinForms --> Visual Studio / .NET</p> <br>
-    <h3><p>Web Development</p></h3>
+    <h3>Web Development</h3>
     <p>ASP.NET Core / Reac</p>
 
     <h4>Programming and DB Languages:</h4>
